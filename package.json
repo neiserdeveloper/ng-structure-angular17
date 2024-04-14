@@ -1,6 +1,7 @@
 {
   "name": "ng-structure-angular17",
   "version": "0.0.0",
+  "author": "Neiser Custodio",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
